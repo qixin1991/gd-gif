@@ -1,3 +1,7 @@
+### Fork From `https://github.com//pzzcn/gd-gif`
+
+原项目没有发布支持干扰线api的npm版本，所以fork过来弄一下。
+
 # V1.1版本更新
 修正：
 1.IOS不能显示的bug。
